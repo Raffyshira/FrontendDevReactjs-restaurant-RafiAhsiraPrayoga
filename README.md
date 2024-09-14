@@ -25,4 +25,6 @@ Build
 npm run build
 ```
 
+[link project](https://66e56ee2490049319f38a395--react-js-technical-test.netlify.app/)
+
 Terima Kasih Atas Kesempatan yang diberikan.
